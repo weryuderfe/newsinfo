@@ -1,0 +1,12 @@
+title: "Situs Sederhana"
+description: "Blog sederhana dengan Jekyll"
+author: "Nama Anda"
+theme: "jekyll-theme-minimal"
+baseurl: "" # Kosongkan jika di root repositori
+url: "https://username.github.io" # Ganti dengan URL GitHub Pages Anda
+
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about/"
